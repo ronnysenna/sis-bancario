@@ -35,3 +35,10 @@ O sistema bancário possui as seguintes funcionalidades:
 
     ```bash
    git clone https://github.com/ronnysenna/sis-bancario.git
+
+
+ # Encontre-me
+
+[![portfolio](https://img.shields.io/badge/my_portfolio-333?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ronnysenna.github.io/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ronnysenna/)
+[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ronnysenna/?hl=pt_BR)
